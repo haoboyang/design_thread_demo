@@ -1,4 +1,4 @@
-package thread;
+package lock.thread;
 
 /**
  * @author Dongfanger
